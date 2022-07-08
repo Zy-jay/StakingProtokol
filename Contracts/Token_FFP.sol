@@ -1,13 +1,6 @@
 pragma solidity ^0.4.21;
 
 
-/*
-BASIC ERC20 Crowdsale ICO ERC20 Token
-Create this Token contract AFTER you already have the Sale contract created.
-   Token(address sale_address)   // creates token and links the Sale contract
-@author Hunter Long
-@repo https://github.com/hunterlong/ethereum-ico-contract
-*/
 
 
 contract BasicToken {
